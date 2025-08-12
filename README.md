@@ -1,4 +1,4 @@
-# Advanced Multivariate Analysis
+# Assignment on Advanced Multivariate Analysis
 
 ## Submitted by
 **Name**: Md. Sarwar Hossain Munna<br>
@@ -11,3 +11,6 @@
 Associate Professor<br>
 Department of Statistics<br>
 Begum Rokeya University<br>
+
+
+**Submission Date**: 14.08.2025
